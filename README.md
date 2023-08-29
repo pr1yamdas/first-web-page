@@ -41,7 +41,7 @@ To contribute to WebSearch Hub, follow these steps:
 2. Clone the forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/websearch-hub.git
+   git clone https://github.com/pr1yamdas/web-search-hub.git
    ```
 
 
