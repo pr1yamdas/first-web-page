@@ -25,13 +25,27 @@ WebSearch Hub is a revolutionary website designed to simplify your online experi
 
    ```bash
    git clone https://github.com/pr1yamdas/web-search-hub.git
+   ```
 
 
 
 
 ## Contributing
-We welcome contributions from the community! If you'd like to add support for new websites, enhance the user interface, fix bugs, or suggest improvements, please follow these steps:
 
+We welcome contributions from the open-source community that help improve WebSearch Hub and make it even more valuable to users. Whether you're interested in adding support for new websites, enhancing the user interface, fixing bugs, or suggesting improvements, your efforts are greatly appreciated.
+
+To contribute to WebSearch Hub, follow these steps:
+
+1. Fork this repository by clicking the "Fork" button at the top right corner of this page.
+
+2. Clone the forked repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/websearch-hub.git
+   ```
+
+
+   
 ## Feedback and Contact
 We value your feedback! If you have questions, suggestions, or encounter any issues, please don't hesitate to reach out to us at dpriyam321@gmail.com
 
